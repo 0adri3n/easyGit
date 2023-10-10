@@ -20,25 +20,27 @@ Example :
 
 If 3 persons are using easyGit on a server, the easyGit folder will looks like this :
 
-![image](https://github.com/akira-trinity/easyGit/assets/62818208/66fa0690-0eb6-4961-8f87-4f13048d8fdb)
+![image](https://github.com/akira-trinity/easyGit/assets/62818208/016239cb-f888-4dea-aa16-9a1294316a79)
+
 
 <h2>Step 2 :</h2>
 
 Modify your user in the conf.yaml file :
 
-![image](https://github.com/akira-trinity/easyGit/assets/62818208/6d1c18bd-249a-4a39-9ba9-e89776b5b7ae)
+![image](https://github.com/akira-trinity/easyGit/assets/62818208/fa556bc4-104b-4c24-8e6c-f3283b620838)
+
 
 <h2>Step 3 :</h2>
 
 Add all the users in the list in main.py :
 
-![image](https://github.com/akira-trinity/easyGit/assets/62818208/cb3f06d4-ebe1-4875-b79d-ce440afe1b05)
+![image](https://github.com/akira-trinity/easyGit/assets/62818208/93e5381f-b95d-4f70-81ce-16fd63af085e)
 
 <h2>Step 4 :</h2>
 
 Fill the server informations in each upload.py, download.py and server.py :
 
-![image](https://github.com/akira-trinity/easyGit/assets/62818208/eeb7757d-9c25-4fb1-9c4e-c03b1963051d)
+![image](https://github.com/akira-trinity/easyGit/assets/62818208/90294247-a8f8-4739-aa8e-301c425c9752)
 
 ## Usage
 
